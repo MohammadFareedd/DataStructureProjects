@@ -1,0 +1,4 @@
+C:/Users/mohammad/Desktop/pro2/cmake-build-debug/CMakeFiles/pro2.dir
+C:/Users/mohammad/Desktop/pro2/cmake-build-debug/CMakeFiles/spain.dir
+C:/Users/mohammad/Desktop/pro2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mohammad/Desktop/pro2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

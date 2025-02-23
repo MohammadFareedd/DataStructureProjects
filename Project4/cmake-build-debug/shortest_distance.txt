@@ -1,0 +1,180 @@
+ BFS Shortest Path 
+Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    49KM    Jenin    
+Number of edges 6
+Total Distance 218KM
+Dijkstra Shortest path
+ Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    49KM    Jenin    
+Number of edges 6
+Total Distance 218KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Nablus    130KM    Jericho    
+Number of edges 2
+Total Distance 130KM
+Dijkstra Shortest path
+ Nablus    21KM    Tubas    52KM    Jericho    
+Number of edges 3
+Total Distance 73KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 7
+Total Distance 284KM
+Dijkstra Shortest path
+ Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 7
+Total Distance 284KM
+***************************************************************
+ BFS Shortest Path 
+Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    
+Number of edges 4
+Total Distance 156KM
+Dijkstra Shortest path
+ Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    
+Number of edges 4
+Total Distance 156KM
+***************************************************************
+ BFS Shortest Path 
+Jaffa    100KM    Qalqilya    34KM    Tulkarem    57KM    Haifa    49KM    Jenin    30KM    Tubas    52KM    Jericho    
+Number of edges 7
+Total Distance 322KM
+Dijkstra Shortest path
+ Jaffa    100KM    Qalqilya    34KM    Tulkarem    57KM    Haifa    49KM    Jenin    30KM    Tubas    52KM    Jericho    
+Number of edges 7
+Total Distance 322KM
+***************************************************************
+ BFS Shortest Path 
+Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    49KM    Jenin    
+Number of edges 6
+Total Distance 250KM
+Dijkstra Shortest path
+ Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    49KM    Jenin    
+Number of edges 6
+Total Distance 250KM
+***************************************************************
+ BFS Shortest Path 
+Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    
+Number of edges 5
+Total Distance 208KM
+Dijkstra Shortest path
+ Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    
+Number of edges 5
+Total Distance 208KM
+***************************************************************
+ BFS Shortest Path 
+Nazareth    33KM    Akka    74KM    Jenin    43KM    Nablus    
+Number of edges 4
+Total Distance 150KM
+Dijkstra Shortest path
+ Nazareth    33KM    Akka    74KM    Jenin    43KM    Nablus    
+Number of edges 4
+Total Distance 150KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    38KM    Jerusalem    
+Number of edges 5
+Total Distance 194KM
+Dijkstra Shortest path
+ Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    38KM    Jerusalem    
+Number of edges 5
+Total Distance 194KM
+***************************************************************
+ BFS Shortest Path 
+Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 7
+Total Distance 284KM
+Dijkstra Shortest path
+ Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 7
+Total Distance 284KM
+***************************************************************
+ BFS Shortest Path 
+Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 7
+Total Distance 284KM
+Dijkstra Shortest path
+ Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 7
+Total Distance 284KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 8
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    34KM    Jerusalem    
+Number of edges 2
+Total Distance 34KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    
+Number of edges 2
+Total Distance 34KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    49KM    Jenin    
+Number of edges 7
+Total Distance 320KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    49KM    Jenin    
+Number of edges 7
+Total Distance 252KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    
+Number of edges 1
+Total Distance 70KM
+Dijkstra Shortest path
+ Hebron    70KM    Jericho    
+Number of edges 1
+Total Distance 70KM
+***************************************************************
+ BFS Shortest Path 
+Nablus    130KM    Jericho    
+Number of edges 1
+Total Distance 130KM
+Dijkstra Shortest path
+ Nablus    21KM    Tubas    52KM    Jericho    
+Number of edges 2
+Total Distance 73KM
+***************************************************************

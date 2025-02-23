@@ -1,0 +1,45 @@
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Nablus    130KM    Jericho    
+Number of edges 1
+Total Distance 130KM
+Dijkstra Shortest path
+ Nablus    21KM    Tubas    52KM    Jericho    
+Number of edges 2
+Total Distance 73KM
+***************************************************************
+ BFS Shortest Path 
+Hebron    70KM    Jericho    53KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 364KM
+Dijkstra Shortest path
+ Hebron    34KM    Jerusalem    21KM    Ramallah    38KM    Salfit    53KM    Tulkarem    57KM    Haifa    60KM    Nazareth    33KM    Akka    
+Number of edges 7
+Total Distance 296KM
+***************************************************************
+ BFS Shortest Path 
+Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 6
+Total Distance 284KM
+Dijkstra Shortest path
+ Akka    74KM    Jenin    30KM    Tubas    52KM    Jericho    53KM    Ramallah    30KM    Bethlehem    45KM    Hebron    
+Number of edges 6
+Total Distance 284KM
+***************************************************************
